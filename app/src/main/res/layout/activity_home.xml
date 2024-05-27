@@ -241,7 +241,7 @@
                 android:textColor="@color/blue"
                 android:layout_alignParentEnd="true"/>
         </RelativeLayout>
-    
+
         <!-- Flash Sale Items -->
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/rvFlashSale"
