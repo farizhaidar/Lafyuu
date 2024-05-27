@@ -28,6 +28,7 @@
                 android:padding="12dp"/>
 
             <ImageView
+                android:id="@+id/IVFavourite"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_heart"
