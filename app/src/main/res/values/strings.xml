@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lafyuu</string>
+    <string name="title_activity_database_helper">DatabaseHelper</string>
 </resources>
